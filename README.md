@@ -1,6 +1,8 @@
 # list
 A list of opensource projects
 
+-----------------------------
+
 # lang
 - [Dlang](https://github.com/dlang)   [D programming language](https://dlang.org/)
   - [dlang-vscode](https://github.com/dlang-vscode/dlang-vscode) Support for the Dlang for Visual Studio Code
@@ -41,19 +43,27 @@ A list of opensource projects
 - [rust](https://github.com/rust-lang/rust) rust lang
 - [Boost](https://github.com/boostorg/boost)   [C++ secondary std library]()
 
+--------------------------
+
 # algorithm
 - [MersenneTwister](https://github.com/MersenneTwister-Lab)
   - [TinyMT](https://github.com/MersenneTwister-Lab/TinyMT)
   - [SFMT](https://github.com/MersenneTwister-Lab/SFMT)
 - [gperftools](https://github.com/gperftools/gperftools) Main gperftools repository
 
+--------------------------
+
 # db
 - [ssdb](https://github.com/ideawu/ssdb) SSDB - A fast NoSQL database, an alternative to Redis 
+
+--------------------------
 
 # net
 - [curl](https://github.com/curl/curl)
 - [googlehosts](https://github.com/googlehosts/hosts)
 - [webconsole](https://github.com/shibingli/webconsole) golang ssh web terminal
+
+--------------------------
 
 # source control
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq)
@@ -61,20 +71,28 @@ A list of opensource projects
 - [git](https://github.com/git/git)
 - [git-lfs](https://github.com/git-lfs/git-lfs) Git extension for versioning large files 
 
+--------------------------
+
 # AI
 - [ELF](https://github.com/pytorch/ELF) a platform for game research with AlphaGoZero/AlphaZero reimplementation
 - [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) Mastering the game of Go with deep neural networks and tree search
+
+--------------------------
 
 # crypto
 - [openssl](https://github.com/openssl/openssl)
   - [GmSSL](https://github.com/guanzhi/GmSSL)
 - [cryptopp](https://github.com/weidai11/cryptopp)
-	
+
+--------------------------
+
 # doc tool
 - [gofpdf](https://github.com/jung-kurt/gofpdf)
 - [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
 - [markdown-mathjax](https://github.com/kerzol/markdown-mathjax) Live markdown editor based on MathJax and Marked
 - [editor.md](https://github.com/pandao/editor.md) The open source embeddable online markdown editor (component)
+
+--------------------------
 
 # web
 - [html](https://github.com/w3c/html) Working Draft of the HTML specification
@@ -86,11 +104,14 @@ A list of opensource projects
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [egret-game-library](https://github.com/egret-labs/egret-game-library) Egret Game Library
 
+--------------------------
+
 # config
 - [config](https://github.com/lightbend/config) A type-safe configuration library for JVM languages
 - [gohocon](https://github.com/go-akka/configuration) typesafe HOCON
 - [go-yaml](https://github.com/go-yaml/yaml) YAML support for the Go language.
 
+--------------------------
 
 # books
 - [Programming in D](http://ddili.org/ders/d.en/index.html)
@@ -98,8 +119,10 @@ A list of opensource projects
 
 - [pdfs](https://github.com/tpn/pdfs) Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-- [transferlearning-tutorial](https://github.com/osref/transferlearning-tutorial) 《迁移学习简明手册》LaTex源码
+- [transferlearning-tutorial](https://github.com/jindongwang/transferlearning-tutorial) 《迁移学习简明手册》LaTex源码
 - [Programming-in-D-trans](https://github.com/Heromyth/Programming-in-D)
+
+--------------------------
 
 # stock
 - [StockSharp](https://github.com/StockSharp/StockSharp)
@@ -107,3 +130,6 @@ A list of opensource projects
 - [tushare](https://github.com/waditu/tushare) a utility for crawling historical data of China stocks
 - [LMAX-disruptor](https://github.com/LMAX-Exchange/disruptor) High Performance Inter-Thread Messaging Library
 - [stocks](https://github.com/vic3lord/stocks) Golang library: get stocks from Yahoo finance
+
+------------------------------
+
