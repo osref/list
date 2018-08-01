@@ -78,10 +78,11 @@ A list of opensource projects
 
 # web
 - [html](https://github.com/w3c/html) Working Draft of the HTML specification
-- [bootstrap](https://github.com/twbs/bootstrap)
-  + [fontawesome](http://fontawesome.dashgame.com/)
-  + [bootcss](http://www.bootcss.com/)
-  + [bootlint](https://github.com/twbs/bootlint) HTML linter for Bootstrap projects
+- [bootstrap](https://github.com/twbs)
+  - [bootstrap](https://github.com/twbs/bootstrap)
+  - [fontawesome](http://fontawesome.dashgame.com/)
+  - [bootcss](http://www.bootcss.com/)
+  - [bootlint](https://github.com/twbs/bootlint) HTML linter for Bootstrap projects
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [egret-game-library](https://github.com/egret-labs/egret-game-library) Egret Game Library
 
