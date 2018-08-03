@@ -50,6 +50,7 @@ A list of opensource projects
   - [TinyMT](https://github.com/MersenneTwister-Lab/TinyMT)
   - [SFMT](https://github.com/MersenneTwister-Lab/SFMT)
 - [gperftools](https://github.com/gperftools/gperftools) Main gperftools repository
+- [llvm](https://github.com/llvm-mirror/llvm)
 
 # gnu
 - [flex](https://github.com/westes/flex) The Fast Lexical Analyzer - scanner generator for lexing in C and C++
