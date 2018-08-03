@@ -51,6 +51,11 @@ A list of opensource projects
   - [SFMT](https://github.com/MersenneTwister-Lab/SFMT)
 - [gperftools](https://github.com/gperftools/gperftools) Main gperftools repository
 
+# gnu
+- [flex](https://github.com/westes/flex) The Fast Lexical Analyzer - scanner generator for lexing in C and C++
+- [gnu](https://www.gnu.org/software/)
+- [lex&yacc](http://dinosaur.compilertools.net/)
+
 --------------------------
 
 # db
