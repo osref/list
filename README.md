@@ -52,6 +52,13 @@ A list of opensource projects
 - [gperftools](https://github.com/gperftools/gperftools) Main gperftools repository
 - [llvm](https://github.com/llvm-mirror/llvm)
 
+--------------------------
+
+# os
+- [linux](https://github.com/torvalds/linux)
+
+--------------------------
+
 # gnu
 - [flex](https://github.com/westes/flex) The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [gnu](https://www.gnu.org/software/)
@@ -110,6 +117,7 @@ A list of opensource projects
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [egret-game-library](https://github.com/egret-labs/egret-game-library) Egret Game Library
 - [top-think](https://github.com/top-think) ThinkPHP官方团队
+- [TypeScript](https://github.com/zhongsp/TypeScript) TypeScript使用手册
 
 --------------------------
 
