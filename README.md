@@ -134,6 +134,7 @@ A list of opensource projects
 
 - [pdfs](https://github.com/tpn/pdfs) Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+- [AlgoXY](https://github.com/liuxinyu95/AlgoXY)
 - [transferlearning-tutorial](https://github.com/jindongwang/transferlearning-tutorial) 《迁移学习简明手册》LaTex源码
 - [Programming-in-D-trans](https://github.com/Heromyth/Programming-in-D)
 - [E-Books](https://github.com/bjut-hz/E-Books) IT e-books
