@@ -138,6 +138,8 @@ A list of opensource projects
 - [transferlearning-tutorial](https://github.com/jindongwang/transferlearning-tutorial) 《迁移学习简明手册》LaTex源码
 - [Programming-in-D-trans](https://github.com/Heromyth/Programming-in-D)
 - [E-Books](https://github.com/bjut-hz/E-Books) IT e-books
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
+- [gopherchina2018-cgo-talk](https://github.com/chai2010/gopherchina2018-cgo-talk)
 
 --------------------------
 
