@@ -140,6 +140,7 @@ A list of opensource projects
 - [E-Books](https://github.com/bjut-hz/E-Books) IT e-books
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 - [gopherchina2018-cgo-talk](https://github.com/chai2010/gopherchina2018-cgo-talk)
+- [it-ebooks-cn](https://github.com/fuhmmin/it-ebooks-cn)
 
 --------------------------
 
