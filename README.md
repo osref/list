@@ -141,6 +141,7 @@ A list of opensource projects
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 - [gopherchina2018-cgo-talk](https://github.com/chai2010/gopherchina2018-cgo-talk)
 - [it-ebooks-cn](https://github.com/fuhmmin/it-ebooks-cn)
+- [books](https://github.com/yuanliangding/books)
 
 --------------------------
 
