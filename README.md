@@ -40,6 +40,7 @@ A list of opensource projects
   - [gocollections](https://github.com/cosn/collections) Go collections
   - [gorsaExt](https://github.com/farmerx/gorsa) 支持rsa公钥加密私钥解密；支持rsa公钥解密私钥加密
   - [gorsa](https://github.com/wenzhenxi/gorsa/) 基于farmerx/gorsa进行封装优化
+  - [qlang](https://github.com/qiniu/qlang)
 - [rust](https://github.com/rust-lang/rust) rust lang
 - [Boost](https://github.com/boostorg/boost)   [C++ secondary std library]()
 
