@@ -41,6 +41,7 @@ A list of opensource projects
   - [gorsaExt](https://github.com/farmerx/gorsa) 支持rsa公钥加密私钥解密；支持rsa公钥解密私钥加密
   - [gorsa](https://github.com/wenzhenxi/gorsa/) 基于farmerx/gorsa进行封装优化
   - [qlang](https://github.com/qiniu/qlang)
+  - [go generic](https://github.com/v2pro/plz.codegen)
 - [rust](https://github.com/rust-lang/rust) rust lang
 - [Boost](https://github.com/boostorg/boost)   [C++ secondary std library]()
 
@@ -152,6 +153,11 @@ A list of opensource projects
 - [tushare](https://github.com/waditu/tushare) a utility for crawling historical data of China stocks
 - [LMAX-disruptor](https://github.com/LMAX-Exchange/disruptor) High Performance Inter-Thread Messaging Library
 - [stocks](https://github.com/vic3lord/stocks) Golang library: get stocks from Yahoo finance
+
+------------------------------
+
+# soft
+- [emacs](https://ftp.gnu.org/gnu/emacs/windows/)
 
 ------------------------------
 
