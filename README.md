@@ -98,6 +98,7 @@ A list of opensource projects
 - [openssl](https://github.com/openssl/openssl)
   - [GmSSL](https://github.com/guanzhi/GmSSL)
 - [cryptopp](https://github.com/weidai11/cryptopp)
+- [go-jose](https://github.com/square/go-jose)
 
 --------------------------
 
