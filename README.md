@@ -42,6 +42,8 @@ A list of opensource projects
   - [gorsa](https://github.com/wenzhenxi/gorsa/) 基于farmerx/gorsa进行封装优化
   - [qlang](https://github.com/qiniu/qlang)
   - [go generic](https://github.com/v2pro/plz.codegen)
+  - [go-ethereum](https://github.com/ethereum/go-ethereum) Official golang implementation of the Ethereum protocol.
+  - [ecies](https://github.com/obscuren/ecies) ECIES implemention
 - [rust](https://github.com/rust-lang/rust) rust lang
 - [Boost](https://github.com/boostorg/boost)   [C++ secondary std library]()
 
@@ -53,6 +55,7 @@ A list of opensource projects
   - [SFMT](https://github.com/MersenneTwister-Lab/SFMT)
 - [gperftools](https://github.com/gperftools/gperftools) Main gperftools repository
 - [llvm](https://github.com/llvm-mirror/llvm)
+
 
 --------------------------
 
