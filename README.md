@@ -68,6 +68,7 @@ A list of opensource projects
 - [flex](https://github.com/westes/flex) The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [gnu](https://www.gnu.org/software/)
 - [lex&yacc](http://dinosaur.compilertools.net/)
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) A community-driven modular vim distribution - The ultimate vim configuration
 
 --------------------------
 
