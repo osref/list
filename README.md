@@ -164,6 +164,7 @@ A list of opensource projects
 
 # soft
 - [emacs](https://ftp.gnu.org/gnu/emacs/windows/)
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) A community-driven modular vim distribution - The ultimate vim configuration
 
 ------------------------------
 
