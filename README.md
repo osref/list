@@ -152,6 +152,7 @@ A list of opensource projects
 - [it-ebooks-cn](https://github.com/fuhmmin/it-ebooks-cn)
 - [books](https://github.com/yuanliangding/books)
 - [2014books](https://github.com/cjl3080434008/2014)
+- [cryptography](https://github.com/weiyinfu/cryptography) 北京航空航天大学研究生课程：密码学
 
 --------------------------
 
