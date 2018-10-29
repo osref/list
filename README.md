@@ -95,6 +95,7 @@ A list of opensource projects
 # AI
 - [ELF](https://github.com/pytorch/ELF) a platform for game research with AlphaGoZero/AlphaZero reimplementation
 - [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) Mastering the game of Go with deep neural networks and tree search
+- [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
 
 --------------------------
 
