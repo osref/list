@@ -45,7 +45,12 @@ A list of opensource projects
   - [go-ethereum](https://github.com/ethereum/go-ethereum) Official golang implementation of the Ethereum protocol.
   - [ecies](https://github.com/obscuren/ecies) ECIES implemention
 - [rust](https://github.com/rust-lang/rust) rust lang
-- [Boost](https://github.com/boostorg/boost)   [C++ secondary std library]()
+- [Boost](https://github.com/boostorg/boost)   C++ secondary std library
+
+# programming language design
+
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Functional-Programming-Interpreter](https://github.com/anandimous/Functional-Programming-Interpreter)
 
 --------------------------
 
