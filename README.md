@@ -46,11 +46,14 @@ A list of opensource projects
   - [ecies](https://github.com/obscuren/ecies) ECIES implemention
 - [rust](https://github.com/rust-lang/rust) rust lang
 - [Boost](https://github.com/boostorg/boost)   C++ secondary std library
+- [nim-lang](https://github.com/nim-lang)
+- [julia-lang](https://github.com/julia-lang)
 
 # programming language design
 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Functional-Programming-Interpreter](https://github.com/anandimous/Functional-Programming-Interpreter)
+- [yinwang0](https://github.com/yinwang0)
 
 --------------------------
 
