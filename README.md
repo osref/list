@@ -48,6 +48,7 @@ A list of opensource projects
 - [Boost](https://github.com/boostorg/boost)   C++ secondary std library
 - [nim-lang](https://github.com/nim-lang)
 - [julia-lang](https://github.com/julia-lang)
+- [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang)
 
 # project management
 - [jitamin](https://github.com/jitamin/jitamin)
