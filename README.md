@@ -49,6 +49,9 @@ A list of opensource projects
 - [nim-lang](https://github.com/nim-lang)
 - [julia-lang](https://github.com/julia-lang)
 
+# project management
+- [jitamin](https://github.com/jitamin/jitamin)
+
 # programming language design
 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
