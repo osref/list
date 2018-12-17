@@ -140,6 +140,7 @@ A list of opensource projects
 - [TypeScript](https://github.com/zhongsp/TypeScript) TypeScript使用手册
 - [staticgen](https://www.staticgen.com/) A List of Static Site Generators for JAMstack Sites
 - [hugo](https://github.com/gohugoio/hugo) The world’s fastest framework for building websites. 
+- [vue](https://github.com/vuejs/vue) A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
 --------------------------
 
