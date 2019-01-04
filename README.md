@@ -76,6 +76,12 @@ A list of opensource projects
 
 --------------------------
 
+
+# soft
+- [LibreOffice](https://github.com/LibreOffice)
+
+--------------------------
+
 # gnu
 - [flex](https://github.com/westes/flex) The Fast Lexical Analyzer - scanner generator for lexing in C and C++
 - [gnu](https://www.gnu.org/software/)
