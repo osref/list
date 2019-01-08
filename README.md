@@ -107,6 +107,7 @@ A list of opensource projects
 - [gogs](https://github.com/gogs/gogs) Gogs is a painless self-hosted Git service. 
 - [git](https://github.com/git/git)
 - [git-lfs](https://github.com/git-lfs/git-lfs) Git extension for versioning large files 
+- [gitea](https://github.com/go-gitea/gitea)
 
 --------------------------
 
