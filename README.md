@@ -149,6 +149,7 @@ A list of opensource projects
 - [hugo](https://github.com/gohugoio/hugo) The world’s fastest framework for building websites. 
 - [vue](https://github.com/vuejs/vue) A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [vuejsexamples](https://vuejsexamples.com/)
+- [CleanBlog](https://github.com/luoxn28/CleanBlog) A clean personal blog for you and me.
 
 --------------------------
 
