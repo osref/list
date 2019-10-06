@@ -59,6 +59,9 @@ A list of opensource projects
 - [Functional-Programming-Interpreter](https://github.com/anandimous/Functional-Programming-Interpreter)
 - [yinwang0](https://github.com/yinwang0)
 
+# net
+-  [libp2p](https://github.com/libp2p/go-libp2p) Modular peer-to-peer networking stack (used by IPFS and others)
+
 --------------------------
 
 # algorithm
@@ -92,6 +95,7 @@ A list of opensource projects
 
 # db
 - [ssdb](https://github.com/ideawu/ssdb) SSDB - A fast NoSQL database, an alternative to Redis 
+- [kingshard](https://github.com/flike/kingshard) mysql proxy
 
 --------------------------
 
