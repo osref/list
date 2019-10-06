@@ -160,6 +160,7 @@ A list of opensource projects
 # config
 - [config](https://github.com/lightbend/config) A type-safe configuration library for JVM languages
 - [gohocon](https://github.com/go-akka/configuration) typesafe HOCON
+- [go-hocon](https://github.com/jdevelop/go-hocon) The basic implementation of HOCON for Golang, using ANTLR grammar derived from JSON.
 - [go-yaml](https://github.com/go-yaml/yaml) YAML support for the Go language.
 
 --------------------------
